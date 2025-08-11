@@ -1,0 +1,15 @@
+.marquee-container {
+    background: #2a5298;
+    color: #ffffff; 
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 1100;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    font-weight: bold;
+    font-style: italic;
+}
+
